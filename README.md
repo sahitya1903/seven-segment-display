@@ -1,4 +1,4 @@
-## Seven Segment Display on FPGA 🔢
+## 🔢 Seven Segment Display on FPGA 
 - A simple **Verilog project** demonstrating how to drive a **seven-segment display** using **Xilinx Vivado**.  
 - This project includes HDL source files and FPGA constraint mapping for implementation and testing.
 - This project displays hexadecimal digits (0–9, A–F) on a **7-segment display** by decoding binary input into segment control signals.  
@@ -31,7 +31,7 @@ seven-segment-display/
 
 ---
 
-##🧰 Tools Used
+## 🧰 Tools Used
 - Vivado 2023.x or later
 - Verilog HDL
 - Xilinx Spartan-7 FPGA Board
@@ -40,4 +40,4 @@ seven-segment-display/
 This project is open source under the MIT License.
 
 ## 💡 Author
-Developed by Sahitya Kushwaha — FPGA & Digital Design Enthusiast 💫
+Developed by **Sahitya Kushwaha** — FPGA & Digital Design Enthusiast 💫
